@@ -27,7 +27,7 @@ Here you will find a list of Python Exercises to practice.
         5 3 1
         7 5 3 1
         9 7 5 3 1 
-
+- 07 -> Set a password variable and make a loop to solve it.
 # 06 - Functions
 
 - 01 -> Define a function max() that takes 2 numbers and returns max. 
