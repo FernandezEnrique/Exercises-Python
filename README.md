@@ -27,18 +27,21 @@ Here you will find a list of Python Exercises to practice.
         5 3 1
         7 5 3 1
         9 7 5 3 1 
+
 - 07 -> Set a password variable and make a loop to solve it.
+- 08 -> Enter a word to be spelled.
+
 # 06 - Functions
 
 - 01 -> Define a function max() that takes 2 numbers and returns max. 
-(Python already has a max() function though)
+        (Python already has a max() function though).
 - 02 -> Define a function max_of_three() that takes 3 numbers
-and return the larguest one
+        and return the larguest one.
 - 03 -> Define a function that takes a char and returns True
-if it is a vowel and False if it is not
+        if it is a vowel and False if it is not.
 - 04 -> Define a function addition() and multip() that adds up 
-and multiplies all the number in a given list. 
-Ex. sum([1,2,3,4]) returns 10 and multip([1,2,3,4]) returns 24
-- 05 -> Define a function that reverses words. Example: "hello" is "olleh"
+        and multiplies all the number in a given list. 
+        Ex. sum([1,2,3,4]) returns 10 and multip([1,2,3,4]) returns 24.
+- 05 -> Define a function that reverses words. Example: "hello" is "olleh".
 - 06 -> Define a function that checks if a string is a palindrome. 
-Example: "anna" is a palindrome but "car" is not
+        Example: "anna" is a palindrome but "car" is not.
