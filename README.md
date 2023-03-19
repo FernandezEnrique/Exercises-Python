@@ -16,3 +16,14 @@ Here you will find a list of Python Exercises to practice.
 - 01 -> Ask the user for a positive integer and display all odd numbers from 1 to that number separated by commas.
 - 02 -> Ask the user for a positive integer and display the countdown from that number to zero separated by commas. 
 - 03 -> Ask the user for an amount to invest, the annual interest and the number of years, then show the total amount obtained year by year.
+- 04 -> Ask for a positive integer and display a triangle based on * with the entered heigh.
+- 05 -> Show multiplication table from 1 to 10.
+- 06 -> Ask for a number and show an odd based triangle like that:
+
+        number = 5
+        
+        1
+        3 1
+        5 3 1
+        7 5 3 1
+        9 7 5 3 1 
